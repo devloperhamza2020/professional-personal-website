@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.first-sec{
+    height: 600px;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width h1{
+    font-size: 50px;
+    font-family: 'Fredoka One', cursive;
+}
+.highlight-to{
+    color: rgb(228, 85, 20);
+}
+.highlight-text{
+    color: rgb(12, 168, 108);
+}
+.hire-btn{
+    padding: 10px 30px;
+   background-image: linear-gradient(45deg, rgb(219, 195, 58), green);
+    color: cornsilk;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+.pera{
+    text-align: justify;
+    margin-left: -2px;
+}
+.second-sec{
+    height: 600px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.highlight-big{
+    color: tomato;
+}
+.highlight-dream{
+    color: yellowgreen;
+}
+
+
+.third-section{
+    height: 800px;
+    padding: 30px 30px;
+    background-color: rgb(202, 214, 210);
+}
+.width{
+    height: 15%;
+    width: 28%;
+    float: left;
+    margin-left: 4%;
+    box-shadow: 10px 10px 25px grey;
+    border-radius: 5%;
+    background-color: honeydew;
+}
+.width img{
+    width: 100%;
+}
+h5{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(91, 111, 224);
+}
+h5 .work{
+    color: rgb(199, 60, 129);
+}
+.width h4, p{
+    margin: 30px 20px;
+}
+p{
+    color: rgb(146, 141, 141);
+}
+h4{
+    font-size: 25px;
+}
+
+.inquary-sec{
+    height: 400px;
+    background-image: url("images/Group_33094_1.png");
+    background-position: center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+.inquary{
+    display: flex;
+}
+.inquary h3{
+    padding-left: 30%;
+    padding-top: 10%;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: cornsilk;
+}
+.inquary a{
+    padding-left: 5%;
+    padding-top: 14%;
+}
+.social-media{
+    height: 400px;
+}
+.media{
+    text-align: center;
+}
+.muted{
+    color: rgb(146, 141, 141);
+}
+#hello{
+    font-size: 35px;
+}
+footer{
+    background-color: palevioletred;
+    padding: 30px 0px;
+    text-align: center;
+    font-size: 12px;
+}
